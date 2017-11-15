@@ -1,0 +1,1 @@
+This is an example of creating custom classifier using ```sklearn``` api. More details can be found [here](https://shiki-h.github.io/2017/11/12/SKLearn-Compatible-Classifier/).
